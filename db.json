@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan NUEVO!",
+      "email": "correo2@correo.com",
+      "telefono": "12",
+      "empresa": "12212",
+      "id": 26
+    },
+    {
+      "nombre": "Alvaro",
+      "email": "alvarosopenaf@gmail.com",
+      "telefono": "0261154668479",
+      "empresa": "alvarosopenaf@gmail.com",
+      "id": 28
+    },
+    {
+      "nombre": "Alvaro",
+      "email": "alvarosopenaf@gmail.com",
+      "telefono": "0261154668479",
+      "empresa": "asdas",
+      "id": 29
+    },
+    {
+      "nombre": "Alvaro",
+      "email": "alvarosopenaf@gmail.com",
+      "telefono": "0261154668479",
+      "empresa": "asda",
+      "id": 30
+    }
+  ]
+}
